@@ -1,2 +1,3 @@
 #Hoivasyli -kurssiprojekti
 Tämä nettisivu toimii LUT-korkeakoulun Software Development -kurssin kurssiprojektina. Tiedostoista löytyy index.html, style.css, main.js sekä kuvat-kansio. Kurssiohjeistuksen mukaan myös linkki videoon sekä luentopäiväkirja lisätään tiedostoihin.# Hoivasyli-kurssiprojekti
+Link to the video: https://lut.sharepoint.com/:v:/s/o365Front-End/ET-w-ZlbBShFivzjOBVUhM4BbQNyG-iZase8iCRbivnaNQ?e=1arXV6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
